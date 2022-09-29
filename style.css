@@ -1,0 +1,51 @@
+.first{
+    margin: 10px;
+    text-align: center;
+}
+.round{
+    border-radius: 10px;
+}
+.first input:hover{
+    box-shadow: 0 0 5px rgba(0, 0, 0, .2);
+    border-color: rgba(0, 0, 0, .35);
+}
+
+.second{
+    margin: 10px;
+    text-align: center;
+}
+
+.second input:hover{
+    border-color: rgba(0, 0, 0, .35);
+  box-shadow: 0 0 5px rgba(0, 0, 0, .2);
+}
+
+.three{
+    margin: 10px;
+    text-align: center;
+}
+
+.three input{
+    border: 2px solid rgba(0, 0, 0, .15);
+    background: rgba(0, 0, 0, .1);
+}
+
+.four{
+    margin: 10px;
+    text-align: center; 
+}
+
+.four input{
+    border: none;
+    border-bottom: 1px solid gray;
+    background: transparent;
+}
+
+.five{
+    margin: 10px;
+    text-align: center;
+}
+
+.five input:hover{
+    background-color: aqua;
+}
